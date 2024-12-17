@@ -1,2 +1,0 @@
-Python öğreniyorum. Python ile dosya işlemleri yapıyorum.
-Python harika bir programlama dili!
